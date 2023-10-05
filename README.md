@@ -16,7 +16,7 @@ Pinning the package with `opam pin` and then installing should work as well.
 
 ### If you are not familiar with this toolstack:
 
-Stitchcraft is written in OCaml and uses several OCaml tools including the [dune](https://github.com/ocaml/dune) build system.  See documentation there to get started.
+Stitchcraft is written in OCaml and uses several OCaml tools including the [dune] ) build system.  See documentation there to get started.
 
 A better user experience for such folks is coming someday.
 
